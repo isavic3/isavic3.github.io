@@ -8,7 +8,7 @@ logo: #logo.png # filename of a logo image that has been placed into your images
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: University of Rochester Libraries
-  avatar: #bio-photo.jpg
+  avatar: IvaSavicWebsitePicture.JPG
   bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
   website: https://library.rochester.edu
   email: rclfeedback@library.rochester.edu #personal email
