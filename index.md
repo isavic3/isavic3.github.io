@@ -2,22 +2,8 @@
 layout: home
 excerpt: "About Me..."
 ---
+I am an undergraduate student at the University of Rochester. I am majoring in psychology with a minor in statistics. Most of my research, however, is within the department of Brain and Cognitive science. Right now, I am involved in two research projects: language processing and the neuro level of decision making. The former is interested in the working mechanisms that allow listeners to adapt to a deviated speech. The latter one investigates the rate of neuro-firing in monkeys when involved in the visual task. Both of these projects, even though seemingly different, share the foundational principle: they both investigate the importance of forming prediction for decision making.
+ 
+  
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
-
-## About this Site
-
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
-
-
-## Creating Your Own
-
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
   
